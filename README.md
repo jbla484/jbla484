@@ -5,6 +5,7 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 I'm a full stack web developer and UI/UX designer. I have a true passion for programming.
 
 My GitHub stats: 
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbla484&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **jbla484/jbla484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
