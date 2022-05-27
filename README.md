@@ -6,6 +6,12 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 
 I have a true passion for solving complex problems and bringing ideas to life through code.
 
+### Currently learning: 
+
+- Spring
+
+- Hibernate
+
 ### Connect with me: 
 
 <p align="left">
