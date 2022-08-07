@@ -8,9 +8,9 @@ I have a true passion for solving complex problems and bringing ideas to life th
 
 ### Currently learning: 
 
-- Spring
+- Advanced C++
 
-- Hibernate
+- Linux Ubuntu 18.04
 
 ### Connect with me: 
 
