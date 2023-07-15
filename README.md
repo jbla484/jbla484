@@ -2,7 +2,7 @@
 
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${jbla484}.${jbla484})
 
-### I'm a Husband, Father, Developer, and UI/UX designer. 
+### I'm a Husband, Father, and Motivated Software Engineer.
 
 I have a true passion for solving complex problems and bringing ideas to life through code.
 
