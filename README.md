@@ -8,9 +8,13 @@ I have a true passion for solving complex problems and bringing ideas to life th
 
 ### Currently learning: 
 
-- Advanced C++
+- React.js
 
-- Linux Ubuntu 18.04
+- Node.js
+
+- Express.js
+
+- MongoDB
 
 ### Connect with me: 
 
