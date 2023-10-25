@@ -1,7 +1,5 @@
 ### Hi there, I'm James Blankenship 👋
-
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${jbla484}.${jbla484})
-
+![visitors](https://api.visitorbadge.io/api/VisitorHit?user=jbla484&countColor=%237B1E7A)
 ### I'm a Husband, Father, and Motivated Software Engineer.
 
 I have a true passion for solving complex problems and bringing ideas to life through code.
